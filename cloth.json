@@ -5,59 +5,49 @@
             "name":"hoodies",
             "price":999,
             "size":"xl",
+            "color":"white",
             "image":"https://unsplash.com/photos/V1dX9O1B4pM/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8aG9vZGllc3xlbnwwfHx8fDE2NjUwMTY2MDQ&force=true&w=640"
-          
         },
-        {
+         {
             "id":2,
-            "name":"sweater",
-            "price":899,
+            "name":"hoodies",
+            "price":1299,
             "size":"l",
-            "image":"https://unsplash.com/photos/Ds4TsdS095U/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8c3dlYXRlcnxlbnwwfHx8fDE2NjUwMDMxMDI&force=true&w=640"
-           
+            "color":"red",
+            "image":"https://unsplash.com/photos/VLc_BK2LT5M/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OXx8cmVkJTIwaG9vZGllc3xlbnwwfHx8fDE2NjUwNzM1MjQ&force=true&w=640"
         },
         {
             "id":3,
-            "name":"tshirt",
-            "size":"xl",
-            "image":"https://unsplash.com/photos/6Nub980bI3I/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1MDUxMTgw&force=true&w=640"
-           
-            
+            "name":"hoodies",
+            "price":899,
+            "size":"m",
+            "color":"orange",
+            "image":"https://unsplash.com/photos/Zo5S6VqBPXM/download?force=true&w=640"
+        },
+          {
+            "id":4,
+            "name":"sweater",
+            "price":1000,
+            "size":"l",
+            "color":"white",
+            "image":"https://unsplash.com/photos/mU88MlEFcoU/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8d2hpdGUlMjBzd2VhdGVyfGVufDB8fHx8MTY2NTA2Mzc1NQ&force=true&w=640"
         },
          {
-            "id":4,
-            "name":"shirt",
-            "size":"l",
-            "image":"https://unsplash.com/photos/2yJFGX0tB-U/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1MDUxMjYy&force=true&w=640"
-          
-            
-        },
-        {
             "id":5,
-             "name":"hoodies",
-             "price":2999,
-             "size":"l",
-             "image":"https://unsplash.com/photos/O9TBXOmyN2I/download?force=true&w=1920"
-           
-            
+            "name":"sweater",
+            "price":1000,
+            "size":"m",
+            "color":"red",
+            "image":"https://unsplash.com/photos/A2dLORW-gJY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NXx8cmVkJTIwc3dlYXRlcnxlbnwwfHx8fDE2NjUwNjQ4OTA&force=true&w=640"
         },
-        {
             "id":6,
-             "name":"pant",
-             "price":1960,
-             "size":"l",
-            "image":"https://unsplash.com/photos/17qC7l19hMI/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8cGFudHxlbnwwfHx8fDE2NjUwMzI5NTI&force=true&w=640"
-           
+            "name":"sweater",
+            "price":2999,
+            "size":"xl",
+            "color":"blue",
+            "image":"https://unsplash.com/photos/oRhCzrViVjY/download?force=true&w=640"
         },
-        {
-            "id":5,
-             "name":"hoodies",
-             "price":2999,
-             "size":"m",
-             "image":"https://unsplash.com/photos/35xbnNzskSg/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1MDUxMjcw&force=true&w=640"
-           
-            
-        }
+ 
         
     ]
 }
