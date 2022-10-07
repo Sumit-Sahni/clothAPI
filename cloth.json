@@ -19,7 +19,7 @@
               "description":[
                   {
                    "price":1299,
-                "size":"l",
+                "size":"L",
                 "color":"red"
                   }
                
@@ -44,7 +44,7 @@
               "description":[
                   {
                  "price":1000,
-                "size":"l",
+                "size":"L",
                 "color":"white"
                   }
             ],
