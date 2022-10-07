@@ -4,7 +4,7 @@
          {
             "id":1,
             "category":"hoodies",
-            "name":"white hoodies",
+            "name":"white hoodie",
             "price":999,
             "size":"xl",
             "color":"white",
@@ -14,7 +14,7 @@
           {
               "id":2,
               "category":"hoodies",
-             "name":"red hoodies",
+             "name":"red hoodie",
               "price":1299,
              "size":"L",
              "color":"red" , 
@@ -25,7 +25,7 @@
            {
               "id":3,
               "category":"hoodies",
-              "name":"hoodies",
+              "name":"orange hoodie",
               "price":899,
               "size":"m",
               "color":"orange",
