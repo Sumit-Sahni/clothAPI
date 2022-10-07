@@ -1,8 +1,9 @@
 {
-     "data":{
-     "hoodies":[
-        {
+    "data":[
+
+         {
             "id":1,
+            "category":"hoodies",
             "name":"white hoodies",
             "price":999,
             "size":"xl",
@@ -12,6 +13,7 @@
    
           {
               "id":2,
+              "category":"hoodies",
              "name":"red hoodies",
               "price":1299,
              "size":"L",
@@ -22,18 +24,18 @@
    
            {
               "id":3,
+              "category":"hoodies",
               "name":"hoodies",
               "price":899,
               "size":"m",
               "color":"orange",
               "image":"https://unsplash.com/photos/Zo5S6VqBPXM/download?force=true&w=640"
-          }
-    ],
-      
+          },
 
-     "sweaters":[
+    
         {
-            "id":1,
+            "id":4,
+            "category":"sweater",
             "name":"white sweater",
             "price":999,
             "size":"xl",
@@ -42,8 +44,9 @@
           },
    
           {
-              "id":2,
-             "name":"red sweater",
+              "id":5,
+              "category":"sweater",
+              "name":"red sweater",
               "price":1299,
               "size":"L",
               "color":"red", 
@@ -52,14 +55,13 @@
           },
    
            {
-              "id":3,
+              "id":6,
+              "category":"sweater",
               "name":"blue sweater",
               "price":899,
               "size":"m",
               "color":"blue",
               "image":"https://unsplash.com/photos/oRhCzrViVjY/download?force=true&w=640"
           }
-
-     ]
-  }       
+   ]    
 }
