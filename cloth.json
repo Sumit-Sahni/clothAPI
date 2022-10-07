@@ -1,5 +1,4 @@
 {
-    "data" :{
          "hoodies":[
             {
               "id":1,
@@ -59,5 +58,4 @@
                 "image":"https://unsplash.com/photos/oRhCzrViVjY/download?force=true&w=640"
             }
         ]  
-    }
 }
