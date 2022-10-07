@@ -4,9 +4,12 @@
             "id":1,
             "name":"hoodies",
             "description":[
-               "price":999,
+                {
+                "price":999,
                "size":"xl",
-               "color":"white",
+               "color":"white"
+                }
+              
             ],
             "image":"https://unsplash.com/photos/V1dX9O1B4pM/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8aG9vZGllc3xlbnwwfHx8fDE2NjUwMTY2MDQ&force=true&w=640"
         },
@@ -14,9 +17,12 @@
             "id":2,
             "name":"hoodies",
               "description":[
-                "price":1299,
+                  {
+                   "price":1299,
                 "size":"l",
-                "color":"red",
+                "color":"red"
+                  }
+               
             ],
             "image":"https://unsplash.com/photos/VLc_BK2LT5M/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OXx8cmVkJTIwaG9vZGllc3xlbnwwfHx8fDE2NjUwNzM1MjQ&force=true&w=640"
         },
@@ -24,9 +30,11 @@
             "id":3,
             "name":"hoodies",
              "description":[
-                "price":899,
-               "size":"m",
-               "color":"orange",
+                 {
+                  "price":899,
+                "size":"m",
+                "color":"orange"
+                 }  
             ],
             "image":"https://unsplash.com/photos/Zo5S6VqBPXM/download?force=true&w=640"
         },
@@ -34,9 +42,11 @@
             "id":4,
             "name":"sweater",
               "description":[
-                "price":1000,
+                  {
+                 "price":1000,
                 "size":"l",
-               "color":"white",
+                "color":"white"
+                  }
             ],
             "image":"https://unsplash.com/photos/mU88MlEFcoU/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8d2hpdGUlMjBzd2VhdGVyfGVufDB8fHx8MTY2NTA2Mzc1NQ&force=true&w=640"
         },
@@ -44,9 +54,12 @@
             "id":5,
             "name":"sweater",
             "description":[
-              "price":1000,
-              "size":"m",
-              "color":"red",
+                {
+                "price":1000,
+                "size":"m",
+                "color":"red"
+                }
+              
             ],
             "image":"https://unsplash.com/photos/A2dLORW-gJY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NXx8cmVkJTIwc3dlYXRlcnxlbnwwfHx8fDE2NjUwNjQ4OTA&force=true&w=640"
         },
@@ -54,9 +67,12 @@
             "id":6,
             "name":"sweater",
             "description":[
-            "price":2999,
-            "size":"xl",
-            "color":"blue",
+                {
+                 "price":2999,
+                 "size":"xl",
+                 "color":"blue"
+                }
+           
             ],
             "image":"https://unsplash.com/photos/oRhCzrViVjY/download?force=true&w=640"
         }
