@@ -1,5 +1,6 @@
 {
-         "hoodies":[
+         "hoodies":{
+                  [
             {
               "id":1,
               "name":"white hoodies",
@@ -27,9 +28,11 @@
                 "color":"orange",
                 "image":"https://unsplash.com/photos/Zo5S6VqBPXM/download?force=true&w=640"
             }
-     ],
- 
-       "sweaters":[
+     ]
+   },
+   {
+          "sweaters":{
+                [
             {
               "id":1,
               "name":"white sweater",
@@ -57,5 +60,9 @@
                 "color":"blue",
                 "image":"https://unsplash.com/photos/oRhCzrViVjY/download?force=true&w=640"
             }
-        ]  
+         ]
+       }  
+
+       }     
+      
 }
