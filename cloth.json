@@ -62,6 +62,15 @@
               "size":"m",
               "color":"blue",
               "image":"https://unsplash.com/photos/oRhCzrViVjY/download?force=true&w=640"
+          },
+         {
+              "id":7,
+              "category":"jacket",
+              "name":"leather jacket",
+              "price":1599,
+              "size":"m",
+              "color":"black",
+              "image":"https://unsplash.com/photos/9sBtF8c7vHk/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mzl8fGJsc2NrJTIwamFja2V0fGVufDB8fHx8MTY2NTI1NjUxMw&force=true&w=640"
           }
    ]    
 }
